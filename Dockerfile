@@ -1,3 +1,3 @@
 FROM php:7.1-apache
-RUN echo "now building..."
-CMD echo "now running...autobuilding"
+RUN echo "RUN now building..."
+CMD echo "CMD now running..."
